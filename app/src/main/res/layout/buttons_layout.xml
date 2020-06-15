@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="4">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="3"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/BTN_01"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:id="@+id/BTN_02"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:id="@+id/BTN_03"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="3"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/BTN_04"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:id="@+id/BTN_05"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:id="@+id/BTN_06"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="3"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/BTN_07"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:id="@+id/BTN_08"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:id="@+id/BTN_09"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="3"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/BTN_10"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:id="@+id/BTN_11"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:id="@+id/BTN_12"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights" />
+
+    </LinearLayout>
+
+</LinearLayout>
